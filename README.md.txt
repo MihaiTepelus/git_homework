@@ -1,0 +1,1 @@
+During this training course I have learnt a lot more about git repos and commands, today.
