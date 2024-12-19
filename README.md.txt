@@ -1,0 +1,2 @@
+I've attended all the classes required so far and I am ready to continue my learning into the ETA 25 Java Programme, Group 2.
+Mihai Tepelus wrote this when creating the folder and MD file, on 19th December, 2024.
