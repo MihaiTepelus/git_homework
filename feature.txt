@@ -1,0 +1,2 @@
+When working with Git and GitHub, I like the most the option to work between multiple stations on the same project.
+I like versioning the files with Git, mostly the Git Desktop app, but I also like working with the Git Bash option or command lines, as well.
